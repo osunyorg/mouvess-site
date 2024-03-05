@@ -12,3 +12,7 @@ params:
     footer: "/assets/images/mouvess-complet.png"
   breadcrumb:
     position: after-hero
+  posts:
+    index:
+      truncate_description: 0
+      layout: grid # grid | list
