@@ -49,15 +49,28 @@ contents:
   - kind: block
     template: pages
     title: >-
-      
+      L'association
     ranks:
-      self: false
+      self: 2
+      children: 3
     data:
-      show_main_description: false
-      show_descriptions: false
-      show_images: false
+      page: 
+        path: "/lassociation/"
+        slug: "lassociation"
+        file: "pages/lassociation/_index.html"
+      show_main_description: true
+      show_descriptions: true
+      show_images: true
       layout: grid
       pages:
+        - path: "/lassociation/statuts/"
+          slug: "statuts"
+          file: "pages/lassociation/statuts/_index.html"
+          external: false
+        - path: "/lassociation/manifeste-fondateur/"
+          slug: "manifeste-fondateur"
+          file: "pages/lassociation/manifeste-fondateur/_index.html"
+          external: false
 
 
 
