@@ -9,4 +9,6 @@ params:
     active: false  
   logo:
     header: "/assets/images/mouvess.png"
-    footer: "/assets/images/mouvess.png"
+    footer: "/assets/images/mouvess-complet.png"
+  breadcrumb:
+    position: after-hero
