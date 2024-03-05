@@ -13,6 +13,10 @@ items:
     target: "/lassociation/manifeste-fondateur/"
     kind: page
     children: []
+  - title: Adhérents du Mouvess
+    target: "/lassociation/adherents/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
@@ -23,10 +27,6 @@ items:
   children: []
 - title: Équipe
   target: "/equipe/"
-  kind: page
-  children: []
-- title: Adhérents du Mouvess
-  target: "/adherents/"
   kind: page
   children: []
 
