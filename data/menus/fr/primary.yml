@@ -25,4 +25,8 @@ items:
     target: "/lassociation/statuts/"
     kind: page
     children: []
+  - title: Manifeste fondateur
+    target: "/lassociation/manifeste-fondateur/"
+    kind: page
+    children: []
 
