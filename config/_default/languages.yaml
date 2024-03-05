@@ -8,6 +8,8 @@ fr:
   languageName: Français
   params:
     social:
+      email: >-
+        contact@mouvess.org
       linkedin: >-
         https://www.linkedin.com/company/mouvess/
   permalinks:
