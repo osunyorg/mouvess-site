@@ -13,12 +13,12 @@ items:
     target: "/lassociation/manifeste-fondateur/"
     kind: page
     children: []
-  - title: Adhérents du Mouvess
-    target: "/lassociation/adherents/"
-    kind: page
-    children: []
   - title: Gouvernance
     target: "/lassociation/gouvernance/"
+    kind: page
+    children: []
+  - title: Adhérents du Mouvess
+    target: "/lassociation/adherents/"
     kind: page
     children: []
 - title: Actualités
