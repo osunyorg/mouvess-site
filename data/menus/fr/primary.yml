@@ -13,8 +13,8 @@ items:
   target: "/equipe/"
   kind: page
   children: []
-- title: Organisations
-  target: "/organisations/"
+- title: Adhérents du Mouvess
+  target: "/adherents/"
   kind: page
   children: []
 - title: L'association
