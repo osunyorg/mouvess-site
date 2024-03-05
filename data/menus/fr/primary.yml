@@ -20,5 +20,9 @@ items:
 - title: L'association
   target: "/lassociation/"
   kind: page
-  children: []
+  children:
+  - title: Statuts
+    target: "/lassociation/statuts/"
+    kind: page
+    children: []
 
