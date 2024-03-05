@@ -17,6 +17,10 @@ items:
     target: "/lassociation/adherents/"
     kind: page
     children: []
+  - title: Gouvernance
+    target: "/lassociation/gouvernance/"
+    kind: page
+    children: []
 - title: Actualités
   target: "/actualites/"
   kind: page
