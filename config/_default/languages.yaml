@@ -15,6 +15,7 @@ fr:
   permalinks:
     events: /agenda/:year-:month-:day-:slug/
     events_categories: /agenda/:slug/
+    organizations: /adherents/:slug/
   taxonomies:
     administrator: administrators
     author: authors
