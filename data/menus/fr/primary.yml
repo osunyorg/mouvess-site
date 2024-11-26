@@ -9,28 +9,36 @@ items:
     target: "/lassociation/statuts/"
     kind: page
     children: []
+    file: content/fr/pages/lassociation/statuts/_index.html
   - title: Manifeste fondateur
     target: "/lassociation/manifeste-fondateur/"
     kind: page
     children: []
+    file: content/fr/pages/lassociation/manifeste-fondateur/_index.html
   - title: Gouvernance
     target: "/lassociation/gouvernance/"
     kind: page
     children: []
+    file: content/fr/pages/lassociation/gouvernance/_index.html
   - title: Adhérents du Mouvess
     target: "/lassociation/adherents/"
     kind: page
     children: []
+    file: content/fr/organizations/_index.html
+  file: content/fr/pages/lassociation/_index.html
 - title: Actualités
   target: "/actualites/"
   kind: page
   children: []
+  file: content/fr/posts/_index.html
 - title: Agenda
   target: "/agenda/"
   kind: page
   children: []
+  file: content/fr/events/_index.html
 - title: Équipe
   target: "/equipe/"
   kind: page
   children: []
+  file: content/fr/persons/_index.html
 
