@@ -2,6 +2,11 @@
 
 baseURL: https://site.mouvess.osuny.site
 
+## OSUNY
+osuny:
+  website:
+    id: db90f821-c3d9-464f-b40f-adae90599fb2
+
 ## LANGUAGE
 defaultContentLanguage: fr
 defaultContentLanguageInSubdir: false
