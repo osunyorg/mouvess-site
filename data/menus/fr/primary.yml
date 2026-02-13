@@ -2,66 +2,88 @@
 title: Menu principal
 items:
 - title: L'association
+  slug: l-association
   target: "/lassociation/"
   kind: page
   new_tab: false
   children:
   - title: Statuts
+    slug: statuts
     target: "/lassociation/statuts/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/lassociation/statuts"
     file: content/fr/pages/lassociation/statuts/_index.html
   - title: Manifeste fondateur
+    slug: manifeste-fondateur
     target: "/lassociation/manifeste-fondateur/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/lassociation/manifeste-fondateur"
     file: content/fr/pages/lassociation/manifeste-fondateur/_index.html
   - title: Gouvernance
+    slug: gouvernance
     target: "/lassociation/gouvernance/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/pages/lassociation/gouvernance"
     file: content/fr/pages/lassociation/gouvernance/_index.html
   - title: Adhérents du Mouvess
+    slug: adherents-du-mouvess
     target: "/lassociation/adherents/"
     kind: page
     new_tab: false
     children: []
+    descendants_targets: []
     path: "/organizations"
     file: content/fr/organizations/_index.html
+  descendants_targets:
+  - "/lassociation/adherents/"
+  - "/lassociation/gouvernance/"
+  - "/lassociation/manifeste-fondateur/"
+  - "/lassociation/statuts/"
   path: "/pages/lassociation"
   file: content/fr/pages/lassociation/_index.html
 - title: Actualités
+  slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Agenda
+  slug: agenda
   target: "/agenda/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
 - title: Équipe
+  slug: equipe
   target: "/equipe/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/persons"
   file: content/fr/persons/_index.html
 - title: Expositions
+  slug: expositions
   target: "/expositions/"
   kind: page
   new_tab: false
   children: []
+  descendants_targets: []
   path: "/exhibitions"
   file: content/fr/exhibitions/_index.html
 
