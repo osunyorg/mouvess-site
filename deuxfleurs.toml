@@ -15,14 +15,14 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
-from = "/adherents/noesya/index.html"
+from = "/adherents/noesya/"
 to = "/lassociation/adherents/noesya/"
 
 [[redirects]]
-from = "/adherents/index.html"
+from = "/adherents/"
 to = "/lassociation/adherents/"
 
 [[redirects]]
-from = "/organisations/index.html"
+from = "/organisations/"
 to = "/lassociation/adherents/"
 
