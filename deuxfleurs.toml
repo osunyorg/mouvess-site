@@ -26,3 +26,7 @@ to = "/lassociation/adherents/"
 from = "/organisations/index.html"
 to = "/lassociation/adherents/"
 
+[[redirects]]
+from = "/lassociation/index.html"
+to = "/qui-sommes-nous/"
+

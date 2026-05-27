@@ -3,40 +3,40 @@ title: Menu principal
 items:
 - title: L'association
   slug: l-association
-  target: "/lassociation/"
+  target: "/qui-sommes-nous/"
   kind: page
   new_tab: false
   children:
   - title: Statuts
     slug: statuts
-    target: "/lassociation/statuts/"
+    target: "/qui-sommes-nous/statuts/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/lassociation/statuts"
-    file: content/fr/pages/lassociation/statuts/_index.html
+    path: "/pages/qui-sommes-nous/statuts"
+    file: content/fr/pages/qui-sommes-nous/statuts/_index.html
   - title: Manifeste fondateur
     slug: manifeste-fondateur
-    target: "/lassociation/manifeste-fondateur/"
+    target: "/qui-sommes-nous/manifeste-fondateur/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/lassociation/manifeste-fondateur"
-    file: content/fr/pages/lassociation/manifeste-fondateur/_index.html
+    path: "/pages/qui-sommes-nous/manifeste-fondateur"
+    file: content/fr/pages/qui-sommes-nous/manifeste-fondateur/_index.html
   - title: Gouvernance
     slug: gouvernance
-    target: "/lassociation/gouvernance/"
+    target: "/qui-sommes-nous/gouvernance/"
     kind: page
     new_tab: false
     children: []
     descendants_targets: []
-    path: "/pages/lassociation/gouvernance"
-    file: content/fr/pages/lassociation/gouvernance/_index.html
+    path: "/pages/qui-sommes-nous/gouvernance"
+    file: content/fr/pages/qui-sommes-nous/gouvernance/_index.html
   - title: Adhérents du Mouvess
     slug: adherents-du-mouvess
-    target: "/lassociation/adherents/"
+    target: "/qui-sommes-nous/adherents/"
     kind: page
     new_tab: false
     children: []
@@ -44,12 +44,12 @@ items:
     path: "/organizations"
     file: content/fr/organizations/_index.html
   descendants_targets:
-  - "/lassociation/adherents/"
-  - "/lassociation/gouvernance/"
-  - "/lassociation/manifeste-fondateur/"
-  - "/lassociation/statuts/"
-  path: "/pages/lassociation"
-  file: content/fr/pages/lassociation/_index.html
+  - "/qui-sommes-nous/adherents/"
+  - "/qui-sommes-nous/gouvernance/"
+  - "/qui-sommes-nous/manifeste-fondateur/"
+  - "/qui-sommes-nous/statuts/"
+  path: "/pages/qui-sommes-nous"
+  file: content/fr/pages/qui-sommes-nous/_index.html
 - title: Actualités
   slug: actualites
   target: "/actualites/"
