@@ -1,3 +1,25 @@
+header#document-header 
+    .upper-menu
+        background: $color-beige
+        .nav-level-1
+            justify-content: end
+            a
+                // font-family: $font-agrandir
+                text-transform: uppercase
+                padding: $spacing-1 0 !important
+                &::after
+                    content: none
+    .primary-menu
+        a
+            font-family: $font-agrandir
+    .menu-class-cta
+        @include media-breakpoint-up(desktop)
+            a
+                background: $color-blue-dark
+                border-radius: 50px !important
+                color: white !important
+                font-family: $font-agrandir
+                padding: $spacing-1 $spacing-3
 footer#document-footer 
     .container:first-of-type
         justify-content: center

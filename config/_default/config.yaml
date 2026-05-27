@@ -14,3 +14,16 @@ params:
     index:
       truncate_description: 0
       layout: grid # grid | list
+  default:
+    single:
+      meta:
+        position: hero
+        options:
+          authors: true
+          dates: true
+          published_at: true
+          reading_time: false
+          share: true
+          taxonomies: true
+          updated_at: false
+          with_labels: false
