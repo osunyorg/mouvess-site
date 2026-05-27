@@ -15,18 +15,38 @@ for = ["**/*.png", "**/*.jpg", "**/*.jpeg", "**/*.gif", "**/*.webp"]
 Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
+from = "/lassociation/statuts/index.html"
+to = "/qui-sommes-nous/statuts/"
+
+[[redirects]]
 from = "/adherents/noesya/index.html"
-to = "/lassociation/adherents/noesya/"
+to = "/qui-sommes-nous/adherents/noesya/"
 
 [[redirects]]
 from = "/adherents/index.html"
-to = "/lassociation/adherents/"
+to = "/qui-sommes-nous/adherents/"
 
 [[redirects]]
 from = "/organisations/index.html"
-to = "/lassociation/adherents/"
+to = "/qui-sommes-nous/adherents/"
+
+[[redirects]]
+from = "/lassociation/adherents/index.html"
+to = "/qui-sommes-nous/adherents/"
+
+[[redirects]]
+from = "/lassociation/gouvernance/index.html"
+to = "/qui-sommes-nous/gouvernance/"
+
+[[redirects]]
+from = "/lassociation/adherents/noesya/index.html"
+to = "/qui-sommes-nous/adherents/noesya/"
 
 [[redirects]]
 from = "/lassociation/index.html"
 to = "/qui-sommes-nous/"
+
+[[redirects]]
+from = "/lassociation/manifeste-fondateur/index.html"
+to = "/qui-sommes-nous/manifeste-fondateur/"
 
