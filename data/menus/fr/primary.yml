@@ -68,4 +68,12 @@ items:
   descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
+- title: Adhérer
+  slug: adherer
+  target: ''
+  kind: url
+  new_tab: false
+  children: []
+  descendants_targets: []
+  html_class: menu-class-cta
 
