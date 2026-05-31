@@ -50,13 +50,86 @@ items:
   - "/qui-sommes-nous/statuts/"
   path: "/pages/qui-sommes-nous"
   file: content/fr/pages/qui-sommes-nous/_index.html
+- title: Notre plaidoyer
+  slug: notre-plaidoyer
+  target: ''
+  kind: blank
+  new_tab: false
+  children:
+  - title: Notre manifeste
+    slug: notre-manifeste
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Notre projet 2027
+    slug: notre-projet-2027
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Nos positions
+    slug: nos-positions
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Nos actions et victoires
+    slug: nos-actions-et-victoires
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  descendants_targets:
+  - ''
+- title: Nos programmes
+  slug: nos-programmes
+  target: ''
+  kind: blank
+  new_tab: false
+  children:
+  - title: ESUS-Tour
+    slug: esus-tour
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: ESUS Académie
+    slug: esus-academie
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  descendants_targets:
+  - ''
 - title: Actualités
   slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Média / On parle de nous
+    slug: media-on-parle-de-nous
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  - title: Vie du réseau
+    slug: vie-du-reseau
+    target: ''
+    kind: blank
+    new_tab: false
+    children: []
+    descendants_targets: []
+  descendants_targets:
+  - ''
   path: "/posts"
   file: content/fr/posts/_index.html
 - title: Agenda
@@ -68,12 +141,19 @@ items:
   descendants_targets: []
   path: "/events"
   file: content/fr/events/_index.html
-- title: Adhérer
-  slug: adherer
+- title: J’adhérer
+  slug: j-adherer
   target: ''
   kind: url
   new_tab: false
   children: []
   descendants_targets: []
   html_class: menu-class-cta
+- title: Mon espace adhérent
+  slug: mon-espace-adherent
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+  descendants_targets: []
 
