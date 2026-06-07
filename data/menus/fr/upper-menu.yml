@@ -31,13 +31,6 @@ items:
   new_tab: false
   children: []
   descendants_targets: []
-- title: Espace adhérents
-  slug: espace-adherents
-  target: ''
-  kind: url
-  new_tab: true
-  children: []
-  descendants_targets: []
 - title: Mon espace adhérent
   slug: mon-espace-adherent
   target: ''
