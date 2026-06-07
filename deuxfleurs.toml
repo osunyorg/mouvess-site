@@ -19,6 +19,30 @@ from = "/adherents/noesya/index.html"
 to = "/qui-sommes-nous/adherents/noesya/"
 
 [[redirects]]
+from = "/agenda/archives/index.html"
+to = "/actualites/agenda/archives/"
+
+[[redirects]]
+from = "/equipe/equipe-editoriale/index.html"
+to = "/qui-sommes-nous-1/equipe/equipe-editoriale/"
+
+[[redirects]]
+from = "/expositions/archives-expositions/index.html"
+to = "/actualites/expositions/archives-expositions/"
+
+[[redirects]]
+from = "/agenda/index.html"
+to = "/actualites/agenda/"
+
+[[redirects]]
 from = "/lassociation/adherents/noesya/index.html"
 to = "/qui-sommes-nous/adherents/noesya/"
+
+[[redirects]]
+from = "/expositions/index.html"
+to = "/actualites/expositions/"
+
+[[redirects]]
+from = "/equipe/index.html"
+to = "/qui-sommes-nous-1/equipe/"
 
