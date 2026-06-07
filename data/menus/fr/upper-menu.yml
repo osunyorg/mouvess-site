@@ -6,8 +6,48 @@ items:
   target: ''
   kind: blank
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: " Présentation du Mouvess"
+    slug: presentation-du-mouvess
+    target: "/qui-sommes-nous-1/presentation-du-mouvess/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/qui-sommes-nous-1/presentation-du-mouvess"
+    file: content/fr/pages/qui-sommes-nous-1/presentation-du-mouvess/_index.html
+  - title: Notre vision / ambition / projet
+    slug: notre-vision-ambition-projet
+    target: "/qui-sommes-nous-1/notre-vision-ambition-projet/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/qui-sommes-nous-1/notre-vision-ambition-projet"
+    file: content/fr/pages/qui-sommes-nous-1/notre-vision-ambition-projet/_index.html
+  - title: Notre implantation territoriale
+    slug: notre-implantation-territoriale
+    target: "/qui-sommes-nous-1/notre-implantation-territoriale/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/qui-sommes-nous-1/notre-implantation-territoriale"
+    file: content/fr/pages/qui-sommes-nous-1/notre-implantation-territoriale/_index.html
+  - title: Notre gouvernance
+    slug: notre-gouvernance
+    target: "/qui-sommes-nous-1/notre-gouvernance/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/qui-sommes-nous-1/notre-gouvernance"
+    file: content/fr/pages/qui-sommes-nous-1/notre-gouvernance/_index.html
+  descendants_targets:
+  - "/qui-sommes-nous-1/notre-gouvernance/"
+  - "/qui-sommes-nous-1/notre-implantation-territoriale/"
+  - "/qui-sommes-nous-1/notre-vision-ambition-projet/"
+  - "/qui-sommes-nous-1/presentation-du-mouvess/"
 - title: Notre plaidoyer
   slug: notre-plaidoyer
   target: ''
@@ -15,27 +55,74 @@ items:
   new_tab: false
   children: []
   descendants_targets: []
-  path:
-  file:
+  path: "/pages/notre-plaidoyer"
+  file: content/fr/pages/notre-plaidoyer/_index.html
 - title: J’obtiens l’agrément ESUS
   slug: j-obtiens-l-agrement-esus
   target: ''
   kind: blank
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Tout savoir sur l’agrément ESUS
+    slug: tout-savoir-sur-l-agrement-esus
+    target: "/jobtiens-lagrement-esus/tout-savoir-sur-lagrement-esus/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/jobtiens-lagrement-esus/tout-savoir-sur-lagrement-esus"
+    file: content/fr/pages/jobtiens-lagrement-esus/tout-savoir-sur-lagrement-esus/_index.html
+  - title: Notre boîte à outil
+    slug: notre-boite-a-outil
+    target: "/jobtiens-lagrement-esus/notre-boite-a-outil/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/jobtiens-lagrement-esus/notre-boite-a-outil"
+    file: content/fr/pages/jobtiens-lagrement-esus/notre-boite-a-outil/_index.html
+  descendants_targets:
+  - "/jobtiens-lagrement-esus/notre-boite-a-outil/"
+  - "/jobtiens-lagrement-esus/tout-savoir-sur-lagrement-esus/"
 - title: Nos actions
   slug: nos-actions
   target: ''
   kind: blank
   new_tab: false
-  children: []
-  descendants_targets: []
+  children:
+  - title: Nos événements de l’ESUS-Tour
+    slug: nos-evenements-de-l-esus-tour
+    target: "/nos-actions/nos-evenements-de-lesus-tour/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/nos-actions/nos-evenements-de-lesus-tour"
+    file: content/fr/pages/nos-actions/nos-evenements-de-lesus-tour/_index.html
+  - title: Notre académie de formation
+    slug: notre-academie-de-formation
+    target: "/nos-actions/notre-academie-de-formation/"
+    kind: page
+    new_tab: false
+    children: []
+    descendants_targets: []
+    path: "/pages/nos-actions/notre-academie-de-formation"
+    file: content/fr/pages/nos-actions/notre-academie-de-formation/_index.html
+  descendants_targets:
+  - "/nos-actions/nos-evenements-de-lesus-tour/"
+  - "/nos-actions/notre-academie-de-formation/"
 - title: Espace adhérents
   slug: espace-adherents
   target: ''
   kind: url
   new_tab: true
+  children: []
+  descendants_targets: []
+- title: Mon espace adhérent
+  slug: mon-espace-adherent
+  target: ''
+  kind: blank
+  new_tab: false
   children: []
   descendants_targets: []
 
