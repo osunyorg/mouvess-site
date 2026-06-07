@@ -1,6 +1,36 @@
 ---
 title: Upper menu
 items:
+- title: Qui sommes-nous ?
+  slug: qui-sommes-nous
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+  descendants_targets: []
+- title: Notre plaidoyer
+  slug: notre-plaidoyer
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path:
+  file:
+- title: J’obtiens l’agrément ESUS
+  slug: j-obtiens-l-agrement-esus
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+  descendants_targets: []
+- title: Nos actions
+  slug: nos-actions
+  target: ''
+  kind: blank
+  new_tab: false
+  children: []
+  descendants_targets: []
 - title: Espace adhérents
   slug: espace-adherents
   target: ''
