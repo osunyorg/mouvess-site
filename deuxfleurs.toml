@@ -19,8 +19,16 @@ from = "/adherents/noesya/index.html"
 to = "/qui-sommes-nous/adherents/noesya/"
 
 [[redirects]]
+from = "/equipe/index.html"
+to = "/qui-sommes-nous-1/equipe/"
+
+[[redirects]]
 from = "/actualites/agenda/archives/index.html"
 to = "/agenda/archives/"
+
+[[redirects]]
+from = "/equipe/jonathan-jeremiasz/index.html"
+to = "/qui-sommes-nous-1/equipe/jonathan-jeremiasz/"
 
 [[redirects]]
 from = "/actualites/expositions/archives-expositions/index.html"
@@ -37,10 +45,6 @@ to = "/agenda/"
 [[redirects]]
 from = "/lassociation/adherents/noesya/index.html"
 to = "/qui-sommes-nous/adherents/noesya/"
-
-[[redirects]]
-from = "/equipe/index.html"
-to = "/qui-sommes-nous-1/equipe/"
 
 [[redirects]]
 from = "/actualites/expositions/index.html"
