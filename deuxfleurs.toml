@@ -16,35 +16,43 @@ Cache-Control = "max-age=31536000, no-transform, public"
 
 [[redirects]]
 from = "/adherents/noesya/index.html"
-to = "/qui-sommes-nous/adherents/noesya/"
+to = "/qui-sommes-nous/organisations/noesya/"
 
 [[redirects]]
 from = "/equipe/index.html"
-to = "/qui-sommes-nous-1/equipe/"
+to = "/personnes/"
+
+[[redirects]]
+from = "/qui-sommes-nous/adherents/noesya/index.html"
+to = "/qui-sommes-nous/organisations/noesya/"
 
 [[redirects]]
 from = "/actualites/agenda/archives/index.html"
 to = "/agenda/archives/"
 
 [[redirects]]
-from = "/equipe/jonathan-jeremiasz/index.html"
-to = "/qui-sommes-nous-1/equipe/jonathan-jeremiasz/"
+from = "/qui-sommes-nous-1/equipe/equipe-editoriale/index.html"
+to = "/equipe/equipe-editoriale/"
 
 [[redirects]]
 from = "/actualites/expositions/archives-expositions/index.html"
 to = "/expositions/archives-expositions/"
 
 [[redirects]]
-from = "/equipe/equipe-editoriale/index.html"
-to = "/qui-sommes-nous-1/equipe/equipe-editoriale/"
+from = "/qui-sommes-nous-1/equipe/index.html"
+to = "/personnes/"
 
 [[redirects]]
 from = "/actualites/agenda/index.html"
 to = "/agenda/"
 
 [[redirects]]
+from = "/qui-sommes-nous-1/equipe/jonathan-jeremiasz/index.html"
+to = "/equipe/jonathan-jeremiasz/"
+
+[[redirects]]
 from = "/lassociation/adherents/noesya/index.html"
-to = "/qui-sommes-nous/adherents/noesya/"
+to = "/qui-sommes-nous/organisations/noesya/"
 
 [[redirects]]
 from = "/actualites/expositions/index.html"
