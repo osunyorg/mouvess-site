@@ -14,3 +14,6 @@ allowed_domains:
   - "vimeo.com"
   - "player.vimeo.com"
   - "vumbnail.com"
+  - "assets.brevo.com"
+  - "sibforms.com"
+  - "9cb79152.sibforms.com"
