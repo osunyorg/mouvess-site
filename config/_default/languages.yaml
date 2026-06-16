@@ -21,6 +21,11 @@ fr:
             mouvess
           value: >-
             https://www.linkedin.com/company/mouvess/
+        youtube:
+          label: >-
+            Mouvess
+          value: >-
+            https://www.youtube.com/@Mouvess
 
   taxonomies:
     administrator: administrators
