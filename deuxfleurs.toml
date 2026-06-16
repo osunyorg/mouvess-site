@@ -75,6 +75,10 @@ from = "/equipe/jonathan-jeremiasz/index.html"
 to = "/personnes/jonathan-jeremiasz/"
 
 [[redirects]]
+from = "/agenda/2026/esus-tour-etape-ile-de-france/index.html"
+to = "/agenda/2026/toulouse-2026/"
+
+[[redirects]]
 from = "/actualites/expositions/index.html"
 to = "/expositions/"
 
