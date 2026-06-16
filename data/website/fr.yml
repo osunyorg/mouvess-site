@@ -1,24 +1,17 @@
 default:
 contents_reading_time:
-  seconds: 1
+  seconds: 0
   text: >-
     moins d'une minute
 contents:
   - kind: block
     template: embed
-    title: >-
-      Bloc d'inscription à la Newsletter
-    slug: >-
-      bloc-d-inscription-a-la-newsletter
+
+
     ranks:
       base: 2
-      self: 2
     top:
-      active: true
-      title: 
-        value: >-
-          Bloc d'inscription à la Newsletter
-        heading: 2
+      active: false
 
     data:
       code: >-
