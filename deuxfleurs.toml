@@ -23,6 +23,10 @@ from = "/equipe/index.html"
 to = "/personnes/"
 
 [[redirects]]
+from = "/notre-plaidoyer/index.html"
+to = "/plaidoyer/"
+
+[[redirects]]
 from = "/qui-sommes-nous/adherents/noesya/index.html"
 to = "/organisations/noesya/"
 

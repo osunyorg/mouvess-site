@@ -19,17 +19,26 @@ items:
   descendants_targets: []
   path: "/pages/lagrement-esus"
   file: content/fr/pages/lagrement-esus/_index.html
-- title: Notre plaidoyer
-  slug: notre-plaidoyer
-  target: "/notre-plaidoyer/"
+- title: Plaidoyer
+  slug: plaidoyer
+  target: "/plaidoyer/"
   kind: page
   new_tab: false
   children: []
   descendants_targets: []
-  path: "/pages/notre-plaidoyer"
-  file: content/fr/pages/notre-plaidoyer/_index.html
-- title: Nos actualités
-  slug: nos-actualites
+  path: "/pages/plaidoyer"
+  file: content/fr/pages/plaidoyer/_index.html
+- title: Agenda
+  slug: agenda
+  target: "/agenda/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/events"
+  file: content/fr/events/_index.html
+- title: Actualités
+  slug: actualites
   target: "/actualites/"
   kind: page
   new_tab: false
