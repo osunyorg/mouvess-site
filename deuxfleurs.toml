@@ -43,6 +43,10 @@ from = "/qui-sommes-nous-1/equipe/index.html"
 to = "/personnes/"
 
 [[redirects]]
+from = "/jobtiens-lagrement-esus/lagrement-esus/index.html"
+to = "/lagrement-esus/"
+
+[[redirects]]
 from = "/equipe/equipe-editoriale/index.html"
 to = "/personnes/equipe-editoriale/"
 
@@ -69,6 +73,10 @@ to = "/personnes/jonathan-jeremiasz/"
 [[redirects]]
 from = "/actualites/expositions/index.html"
 to = "/expositions/"
+
+[[redirects]]
+from = "/jobtiens-lagrement-esus/tout-savoir-sur-lagrement-esus/index.html"
+to = "/lagrement-esus/"
 
 [[redirects]]
 from = "/qui-sommes-nous/organisations/index.html"

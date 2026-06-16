@@ -10,4 +10,41 @@ items:
   descendants_targets: []
   path: "/pages/qui-sommes-nous"
   file: content/fr/pages/qui-sommes-nous/_index.html
+- title: L’agrément ESUS
+  slug: l-agrement-esus
+  target: "/lagrement-esus/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/lagrement-esus"
+  file: content/fr/pages/lagrement-esus/_index.html
+- title: Notre plaidoyer
+  slug: notre-plaidoyer
+  target: "/notre-plaidoyer/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/pages/notre-plaidoyer"
+  file: content/fr/pages/notre-plaidoyer/_index.html
+- title: Nos actualités
+  slug: nos-actualites
+  target: "/actualites/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  path: "/posts"
+  file: content/fr/posts/_index.html
+- title: Adhérer
+  slug: adherer
+  target: "/jadhere/"
+  kind: page
+  new_tab: false
+  children: []
+  descendants_targets: []
+  html_class: menu-class-cta
+  path: "/pages/jadhere"
+  file: content/fr/pages/jadhere/_index.html
 
