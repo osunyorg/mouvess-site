@@ -10,6 +10,9 @@ params:
     footer: "/assets/images/logo-complet.svg"
   breadcrumb:
     position: after-hero
+  events:
+    index:
+      archives: true
   home:
     head:
       title: site
