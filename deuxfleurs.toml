@@ -43,6 +43,10 @@ from = "/actualites/expositions/archives-expositions/index.html"
 to = "/expositions/archives-expositions/"
 
 [[redirects]]
+from = "/agenda/2027/audition-du-mouvess-a-lassemblee-nationale-dans-le-cadre-du-projet-de-loi-de-finances-pour-2027/index.html"
+to = "/agenda/2026/audition-du-mouvess-a-lassemblee-nationale-dans-le-cadre-du-projet-de-loi-de-finances-pour-2027/"
+
+[[redirects]]
 from = "/qui-sommes-nous-1/equipe/index.html"
 to = "/personnes/"
 
