@@ -55,6 +55,10 @@ from = "/jobtiens-lagrement-esus/lagrement-esus/index.html"
 to = "/lagrement-esus/"
 
 [[redirects]]
+from = "/fichiers/2026/index.html"
+to = "/fichiers/2026/projet-2027-mouvesspdf/"
+
+[[redirects]]
 from = "/equipe/equipe-editoriale/index.html"
 to = "/personnes/equipe-editoriale/"
 
