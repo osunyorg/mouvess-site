@@ -91,6 +91,10 @@ from = "/actualites/expositions/index.html"
 to = "/expositions/"
 
 [[redirects]]
+from = "/plaidoyer/plaidoyer-2027/index.html"
+to = "/plaidoyer/2027/"
+
+[[redirects]]
 from = "/jobtiens-lagrement-esus/tout-savoir-sur-lagrement-esus/index.html"
 to = "/lagrement-esus/"
 
