@@ -63,6 +63,10 @@ from = "/equipe/equipe-editoriale/index.html"
 to = "/personnes/equipe-editoriale/"
 
 [[redirects]]
+from = "/https:/www.carenews.com/carenews-info/news/representer-les-droits-de-la-nature-en-entreprise-une-proposition-de-loi-deposee/index.html"
+to = "/actualites/2026-03-11-representer-les-droits-de-la-nature-en-entreprise-une-proposition-de-loi-deposee-a-lassemblee-nation/"
+
+[[redirects]]
 from = "/qui-sommes-nous/organisations/noesya/index.html"
 to = "/organisations/noesya/"
 
